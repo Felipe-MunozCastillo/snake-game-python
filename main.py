@@ -1,3 +1,4 @@
+"""Importacion de las clases necesarias para el juego."""
 from turtle import Screen
 import time
 from snake import Snake
